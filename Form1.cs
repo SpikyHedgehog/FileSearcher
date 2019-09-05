@@ -18,7 +18,7 @@ namespace TestFileSearcher
 		private bool SearchStarted, SearchPaused;
 		private int time = 0;
 		private static long searchedFiles = 0;
-		private static ManualResetEvent _busy = new ManualResetEvent(false);
+		private static ManualResetEvent _busy = new ManualResetEvent(true);
 		private void PushToSettings()
 		{
 			SearchSettings.FileNameMask = FilenameTextbox.Text;
@@ -251,6 +251,7 @@ namespace TestFileSearcher
 		{
 			try
 			{
+				_busy.WaitOne();
 				DirectoryInfo directory = new DirectoryInfo(Path);
 				var files = directory.GetFiles();
 				var subdirs = directory.GetDirectories();
