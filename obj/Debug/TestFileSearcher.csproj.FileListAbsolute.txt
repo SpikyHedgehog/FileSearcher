@@ -1,0 +1,10 @@
+C:\Users\idont\Source\Repos\TestFileSearcher\bin\Debug\TestFileSearcher.exe.config
+C:\Users\idont\Source\Repos\TestFileSearcher\bin\Debug\TestFileSearcher.exe
+C:\Users\idont\Source\Repos\TestFileSearcher\bin\Debug\TestFileSearcher.pdb
+C:\Users\idont\Source\Repos\TestFileSearcher\obj\Debug\TestFileSearcher.csprojAssemblyReference.cache
+C:\Users\idont\Source\Repos\TestFileSearcher\obj\Debug\TestFileSearcher.SearchForm.resources
+C:\Users\idont\Source\Repos\TestFileSearcher\obj\Debug\TestFileSearcher.Properties.Resources.resources
+C:\Users\idont\Source\Repos\TestFileSearcher\obj\Debug\TestFileSearcher.csproj.GenerateResource.cache
+C:\Users\idont\Source\Repos\TestFileSearcher\obj\Debug\TestFileSearcher.csproj.CoreCompileInputs.cache
+C:\Users\idont\Source\Repos\TestFileSearcher\obj\Debug\TestFileSearcher.exe
+C:\Users\idont\Source\Repos\TestFileSearcher\obj\Debug\TestFileSearcher.pdb
